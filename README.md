@@ -1,2 +1,2 @@
 # AlgDatPro
-Workspace für den Kurs Algorithmen, Datenstrukturen und Programmiersprachen
+Workspace für den Kurs Algorithmen, Datenstrukturen und Programmiersprachen.
